@@ -501,7 +501,7 @@
 "trial-counter.active" = "Ücretsiz Günü **%d/%d**";
 
 /* First draft: Free days are over */
-"trial-counter.expired" = "Ücretsiz günler sona erdi";
+"trial-counter.expired" = "Ücretsiz günleri sona erdi";
 
 /* First draft: Activate License */
 "trial-notif.activate-license-button" = "Lisansı Aktifleşt,r";
